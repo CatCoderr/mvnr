@@ -36,5 +36,10 @@ Listening on http://0.0.0.0:8080
 ```
 
 
+## TODO
+* Add support for HTTPS
+* More flexible permission system
+* Web UI (search, upload, etc.)
+
 ## Donations
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate%20Now-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/catcoderr)

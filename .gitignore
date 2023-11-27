@@ -1,0 +1,8 @@
+# gitignore for rust projects
+
+target/
+Cargo.lock
+# idea
+.idea/
+
+.DS_Store
